@@ -1,0 +1,14 @@
+Creating REST APIs in Spring Boot, writing solid business logic using microservices.
+
+Collections framework - ArrayList, HashSet, Iterator, HashMap, etc.
+
+Concurrency and Multithreading - FCC has just released a 5 plus hour video on Multithreading recently.
+
+Database connections with Java: Hibernate ORM, JDBC or Spring Data JPA, depending on use.
+
+Being good at Java design patterns and understanding API experience layers (many companies use them).
+
+Current tech trends for Java (based on my experience) include "migrations" from legacy Java 8 versions to Java 17/21 LTS versions, 
+and also from Spring versions of 5 to 6, Spring Boot versions from 2 to 3, and re-writing business logic to ensure compatibilities, 
+MAINLY because a lot of companies have been using Java 8 for a long time until very recently. Apart from that, concurrency, multi-threading 
+and Java design patterns are also MUST.
