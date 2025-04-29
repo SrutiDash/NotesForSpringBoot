@@ -12,3 +12,12 @@ Current tech trends for Java (based on my experience) include "migrations" from 
 and also from Spring versions of 5 to 6, Spring Boot versions from 2 to 3, and re-writing business logic to ensure compatibilities, 
 MAINLY because a lot of companies have been using Java 8 for a long time until very recently. Apart from that, concurrency, multi-threading 
 and Java design patterns are also MUST.
+
+springboot concepts :
+
+spring inititalizr
+starter projects
+auto configuration
+developer tools
+actuator 
+...
