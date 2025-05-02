@@ -1,3 +1,6 @@
+// Keep taking numbers from the user and print their square
+// → Example: User inputs 5 → print 25; input 3 → print 9; loop runs forever.
+
 import java.util.Scanner;
 
 public class infiniteLoop2 {
