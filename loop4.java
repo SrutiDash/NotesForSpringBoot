@@ -14,5 +14,21 @@ public class loop4 {
           j=j+2;
         }while(j<=10);
         //do while loop will run atleast once even if the condition is true or false
+    
+        //test for while and do while loop :
+        System.out.println("While loop test : ");
+        i=12;
+        while(i<=10){
+            System.out.println(i);
+            i++;
+            System.out.println("While Loop"); //wont print anything
+        }
+
+        System.out.println("Do while loop test : ");
+        do{
+            System.out.println(i);
+            i++;
+            System.out.println("Do While Loop"); //will print atleast once
+        }while(i<=10);
     }
 }
